@@ -10,7 +10,7 @@ TS部ではUbuntu，Debianあたりが多い．ぼくはDebian．
 
 TS部ではVirtualBox，VMwareあたりが多い．ぼくはVMware．
 
-[https://eng-entrance.com/vm-list#VMware-2](https://eng-entrance.com/vm-list#VMware-2)
+[https://eng-entrance.com/vm-list](https://eng-entrance.com/vm-list)
 
 ## 仮想マシンにLinuxをインストール
 
