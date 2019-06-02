@@ -37,3 +37,41 @@ AtCoderの問題一覧：
 * [https://atcoder.jp/contests/abs/tasks/abc083_b](https://atcoder.jp/contests/abs/tasks/abc083_b)
 
 # #11 - #20
+
+C問題が混ざってくるが，まだ特別なアルゴリズムの知識などはほぼ不要．
+
+AtCoderの問題一覧：
+* [https://atcoder.jp/contests/abs/tasks/abc088_b](https://atcoder.jp/contests/abs/tasks/abc088_b)
+* [https://atcoder.jp/contests/abs/tasks/abc085_b](https://atcoder.jp/contests/abs/tasks/abc085_b)  
+set使おう
+* [https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1_2019_a](https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1_2019_a)
+* [https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1_2019_b](https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1_2019_b)
+* [https://atcoder.jp/contests/abs/tasks/abc085_c](https://atcoder.jp/contests/abs/tasks/abc085_c)  
+全探索でいいけど3重ループにしないように
+* [https://atcoder.jp/contests/abc095/tasks/abc095_a](https://atcoder.jp/contests/abc095/tasks/abc095_a)
+* [https://atcoder.jp/contests/abc085/tasks/abc085_a](https://atcoder.jp/contests/abc085/tasks/abc085_a)  
+DateTimeを使うまでもない
+* [https://atcoder.jp/contests/abc069/tasks/abc069_b](https://atcoder.jp/contests/abc069/tasks/abc069_b)
+* [https://atcoder.jp/contests/abc082/tasks/abc082_b](https://atcoder.jp/contests/abc082/tasks/abc082_b)  
+sortした結果はの型はlistなのに注意
+* [https://atcoder.jp/contests/abc124/tasks/abc124_c](https://atcoder.jp/contests/abc124/tasks/abc124_c)
+* [https://atcoder.jp/contests/abs/tasks/arc065_a](https://atcoder.jp/contests/abs/tasks/arc065_a)  
+blogに載っている正規表現は間違っているので注意．正規表現を使わない場合は末尾からチェックしていくと簡単
+* [https://atcoder.jp/contests/abc125/tasks/abc125_a](https://atcoder.jp/contests/abc125/tasks/abc125_a)
+* [https://atcoder.jp/contests/abc125/tasks/abc125_b](https://atcoder.jp/contests/abc125/tasks/abc125_b)
+* [https://atcoder.jp/contests/abs/tasks/arc089_a](https://atcoder.jp/contests/abs/tasks/arc089_a)
+* [https://atcoder.jp/contests/abc102/tasks/abc102_b](https://atcoder.jp/contests/abc102/tasks/abc102_b)
+* [https://atcoder.jp/contests/abc113/tasks/abc113_b](https://atcoder.jp/contests/abc113/tasks/abc113_b)
+* [https://atcoder.jp/contests/abc072/submissions/5425918](https://atcoder.jp/contests/abc072/submissions/5425918)
+* [https://atcoder.jp/contests/abc053/tasks/abc053_b](https://atcoder.jp/contests/abc053/tasks/abc053_b)
+
+# #21 -
+
+結構難しい問題も混ざってくる．解けない問題はとばしてもいいかも．
+
+* [https://atcoder.jp/contests/abc125/tasks/abc125_c](https://atcoder.jp/contests/abc125/tasks/abc125_c)  
+これは難しい．いったんはTLEで満足してもいいかも．  
+キーワードは累積和．（累積GCD）逆向きでの累積GCDを用意するのがポイント
+* [https://atcoder.jp/contests/abc125/tasks/abc125_d](https://atcoder.jp/contests/abc125/tasks/abc125_d)  
+D問題だけどあんまり難しくない．（blog見たら解き方わかる）
+* [https://atcoder.jp/contests/abc123/tasks/abc123_c](https://atcoder.jp/contests/abc123/tasks/abc123_c)
