@@ -37,12 +37,21 @@ Pythonのだいご味の一つなのでしっかり覚えておきたい．
 
 ### ちょっとした応用
 
-https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1#リスト内包表記を使ったあれこれ
+[https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1#リスト内包表記を使ったあれこれ](https://qiita.com/y-tsutsu/items/aa7e8e809d6ac167d6a1#リスト内包表記を使ったあれこれ)
 
 ## その他の内包表記
 
 リスト以外にも内包評価が使えるので覚えておくとよい．とくに無理にリストで扱うよりも辞書のほうが可読性がよさそうな場合は，辞書内包表記を使っていきたい．
 
 * 辞書（dict）内包表記
+```py
+{str(i):i for i in range(10)}   # {'7': 7, '8': 8, '2': 2, '9': 9, '0': 0, '1': 1, '6': 6, '5': 5, '4': 4, '3': 3}
+```
 * 集合（set）内包表記
+```py
+{i % 5 for i in range(10)}      # {0, 1, 2, 3, 4}
+```
 * ジェネレータ内包表記
+```py
+(i % 5 for i in range(10))      # <generator object <genexpr> at 0x00000103DAD5C748>
+```
